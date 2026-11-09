@@ -1,0 +1,47 @@
+
+{
+  "project": "Ancient Tamil Nadu - Chola Victory",
+  "subject": "An 11th-century Chola king returning triumphantly to his royal palace after winning a war, wearing traditional royal ornaments and a rich silk veshti with an embroidered angavastram",
+
+  "setting": {
+    "place": "Thanjavur, Tamil Nadu",
+    "era": "11th-century Chola dynasty",
+    "architecture": "Ancient Tamil royal palace with carved stone pillars, traditional wooden doors and expansive courtyard",
+    "time_of_day": "golden hour"
+  },
+
+  "action": "The victorious king enters the palace in a royal procession while warriors, horsemen, royal guards and citizens welcome him with celebration and respect",
+
+  "lighting": "Natural early morning sunlight with warm golden highlights and realistic shadows",
+
+  "camera": {
+    "shot": "wide cinematic establishing shot",
+    "lens": "35mm cinematic lens",
+    "angle": "slightly low angle showing the king's grandeur and palace architecture"
+  },
+
+  "palette": [
+    "antique gold",
+    "deep maroon",
+    "earthy brown",
+    "bronze",
+    "warm sandstone"
+  ],
+
+  "style": "Photorealistic historical cinematic reconstruction, realistic human proportions, authentic ancient Tamil cultural details, detailed textiles and architecture",
+
+  "aspect_ratio": "16:9",
+
+  "avoid": [
+    "modern buildings",
+    "modern clothing",
+    "modern weapons",
+    "European medieval architecture",
+    "Mughal architecture",
+    "fantasy costumes",
+    "plastic-looking objects",
+    "cartoon characters",
+    "incorrect historical elements",
+    "text and watermarks"
+  ]
+}
